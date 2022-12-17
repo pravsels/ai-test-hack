@@ -1,0 +1,506 @@
+prompt,classes,answer_index
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: In populations that eat a regular high-fiber diet of more than 50 grams of fiber per dayTrusted Source, like rural South Africans, chronic diseases are very low.
+Premise 2: Chronic diseases are heart attacks and stroke, cancer such as breast and colon cancer, diabetes, epilepsy and seizures, obesity, and oral health problems.
+Conclusion: In populations that eat a regular high-fiber diet of more than 50 grams of fiber per dayTrusted Source, like rural South Africans, heart attacks and stroke, cancer such as breast and colon cancer, diabetes, epilepsy and seizures, obesity, and oral health problems are very low.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Formative assessment encourages children to enjoy learning
+Premise 2: An ideal learning environment uses formative assessment
+Conclusion: An ideal learning environment encourages children to enjoy learning
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Job discrimination comes with underrepresented female labor force in some professions.
+Premise 2: Underrepresented female labor force in some professions cannot demand their rights of closing wage gap easily.
+Conclusion: Job discrimination comes with not being able to demand rights of closing wage gap easily.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: damaged mentality in an individual brings serious health problems such as stomach reflexes.
+Premise 2: Aggression harms the mentality of person.
+Conclusion: Aggression brings brings serious health problems such as stomach reflexes.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Failure of motion detectors opened an access for police forces to regain the control of Miagami Island.
+Premise 2: Batman used electronic disruptor to malfunction enemy�s motion detectors.
+Conclusion: Batman opened an access for police forces to regain the control of Miagami Island.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Occupational therapy�can help children�with coordination, focus and organizational skills.�
+Premise 2: focused children are�self-motivated
+Conclusion: Occupational therapy can help children to be self-motivated
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: When global business progress, cash-flow management becomes more comfortable.
+Premise 2:  World Trade Organization work towards the facilitation and growth of international trade.
+Conclusion:  World Trade Organization work towards the  more comfortable cash-flow management
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Foods which are often very low in fresh fruit and vegetables makes it hard for people to reach their recommended daily intake of fresh fruit at least 5 servings.
+Premise 2: Fast food is also often very low in fresh fruit and vegetables.
+Conclusion: Fast food makes it hard for people to reach their recommended daily intake of fresh fruit at least 5 servings.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Intermittent fasting reduces insulin resistance
+Premise 2: Decreasing insulin resistance allows your body to transport glucose from your bloodstream to your cells more efficiently
+Conclusion: Intermittent fasting allows your body to transport glucose from your bloodstream to your cells more efficiently
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: encouraging employment in the fast growing creative industries impacts overall unemployment
+Premise 2: Creative services are likely to become a fastgrowing sub-sector of the creative economy.
+Conclusion: creative services could impact on overall unemployment
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Receiving an oscar for best foreign movie honors the corresponding cinema industry.
+Premise 2: Asghar Farhadi has received two Academy Awards for Best Foreign Language Film for his films A Separation and The Salesman.
+Conclusion: Asghar Farhadi honors the corresponding cinema industry.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1:  child labor interferes with their ability to attend regular school 
+Premise 2:  Worldwide agriculture is the largest employer of kids for hand working.
+Conclusion:  Worldwide agriculture is the largest employer  that interferes with children's ability to attend regular school
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Stressing out makes digestion less efficient 
+Premise 2: Exam time pressure increases stress levels
+Conclusion: Exam time pressure makes digestion less efficient 
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Al Qanun Fi Al-Tibb influenced modern medicine.
+Premise 2: Avicenna wrote famous book Al Qanun Fi Al-Tibb.
+Conclusion: Avicenna influenced modern medicine.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: All discoveries make people's life easier.
+Premise 2: cars were one of the most important inventions during the last decades.
+Conclusion: cars made people's life easier during the last decades.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: franchisees have the backing of an established corporation
+Premise 2: you will experience less financial risks when you have the support of an acknowledged organization 
+Conclusion: franchisees will experience less financial risks
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Flooding may occur as an overflow of water from water bodies
+Premise 2: melting the snow on mountains may result in some of that water escaping its usual boundaries.
+Conclusion: Flooding may occur as an result of melting the snow on mountains 
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Working animals,have for centuries been used to help cultivate fields, harvest crops, wrangle other animals, and transport farm products to buyers
+Premise 2: Working animals, include horses, mules, oxen, water buffalo, camels, llamas, alpacas, donkeys, and dogs
+Conclusion: horses, mules, oxen, water buffalo, camels, llamas, alpacas, donkeys, and dogs have for centuries been used to help cultivate fields, harvest crops, wrangle other animals, and transport farm products to buyers
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Facial expressions mean pursing your lips when inhaling and squinting your eyes to keep out smoke.
+Premise 2: The repetitive facial expressions you make when smoking can contribute to wrinkles.
+Conclusion: The repetitive pursing lips when inhaling and squinting your eyes to keep out smoke, when smoking can contribute to wrinkles.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Early Egyptians� writing system were Hieroglyph.
+Premise 2: Hieroglyphic scripting method is currently out-dated.
+Conclusion: Early Egyptians� writing system is currently out-dated.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Excavating ground to a certain depth minimizes the projectile impact of enemy�s artillery.
+Premise 2: Soldiers in the war dug the trenches all around the battlefield.
+Conclusion: Soldiers minimized the projectile impact of enemy�s artillery.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: If the MC1R gene is active, it produces eumelanin and a person will have darker skin and hair.
+Premise 2: MC1R is the gene responsible for determining hair color.
+Conclusion: If the gene responsible for determining hair color is active, it produces eumelanin and a person will have darker skin and hair.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: During acute infection stage the virus reproduces rapidly, the person�s immune system responds by producing HIV antibodies.
+Premise 2: The first few weeks after someone contracts HIV is called the acute infection stage.
+Conclusion: During the first few weeks after someone contracts HIV the virus reproduces rapidly, the person�s immune system responds by producing HIV antibodies.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Atherosclerosis is a disease characterized by fatty, artery-clogging deposits.
+Premise 2: Consuming too much sugar especially from sugar-sweetened drinks has been kinked to atherosclerosis.
+Conclusion: Consuming too much sugar especially from sugar-sweetened drinks has been kinked to a disease characterized by fatty, artery-clogging deposits.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Your speech creates your behavior.
+Premise 2:  Your thoughts make up your speech.
+Conclusion: Your thoughts creates your behavior.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: I will not buy thing that are too expensive
+Premise 2: this lamp is very expensive 
+Conclusion: I won't buy this lamp
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: All birds, including flying and flightless, have feathers.
+Premise 2: Robins should be on the same group with chickens just with a more beautiful appearance.
+Conclusion: Robins have feathers.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Farmers grow a huge amount of crops in Iran each year.
+Premise 2: Growing a wide range of crops helps the economic by making it needless of importing.
+Conclusion: Farmers help the economic.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Anxiety is the most common mental illness in teenagers.
+Premise 2: Most U.S. Teens See Anxiety and Depression as a Major Problem Among Their Peers
+Conclusion: Most U.S. Teens See mental illness as a Major Problem Among Their Peers
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: taking care of oneself is closely interwoven with being concerned with the welfare of the society 
+Premise 2: Focusing on work is a great excuse for not taking care of yourself
+Conclusion: Focusing on work is closely interwoven with not being concerned with the welfare of the society 
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Whatever narrows the tiny blood vessels in the outermost layers of skin, It decreases blood flow and makes skin paler.
+Premise 2: Smoking narrows the tiny blood vessels in the outermost layers of skin.
+Conclusion: Smoking decreases blood flow and makes skin paler.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: People who have less creases on their skin, look younger
+Premise 2: Vitamin C found in lemons may help reduce skin wrinkling
+Conclusion: Vitamin C found in lemons may help you look younger
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: increased blow flow decreases the risks of venous disorders
+Premise 2: massage increases blood flow in the body
+Conclusion: massage decreases the risks of venous disorders
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Vinegar inhibits bacteria from growing in food
+Premise 2: Food spoils when it's there's bacteria in it
+Conclusion: Vinegar inhibits food from spoiling
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: the painter of ""the last judgment"" is considered by some the greatest artist of all time
+Premise 2: The Last Judgment is a�fresco�by the Italian Renaissance painter�Michelangelo
+Conclusion: the Italian Renaissance painter Michelangelo is Considered by some the greatest artist of all time
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: The International Shark Attack File describes shark attacks as unprovoked.
+Premise 2: An unprovoked attack means the person is alive when bitten.
+Conclusion: The International Shark Attack File describes shark attacks as the person is alive when bitten.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: The phenomena which in babies dart their eyes back and forth to the object of interest until both are engaging has been known as joint attention.
+Premise 2: Babies can see an adult following their gaze and try to draw the adult�s attention to something that interests them by joint attention.
+Conclusion: Babies can see an adult following their gaze and try to draw the adult�s attention to something that interests them by looking very quickly at the object of interest until both are engaging.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Developing a sense of trust in your child promotes emotional stability
+Premise 2: An individual who is spiritually balanced, is more likely to make logical decisions
+Conclusion: Your child is more likely to make logical decisions when you develop a sense of trust in him
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: There is no kind of Marketing service in the world that would be suitable to small budgets
+Premise 2: Small businesses do not have large budgets and financing
+Conclusion: There is no kind of marketing service in the world that would be suitable for small businesses
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: students can use iPads to share visual lessons.
+Premise 2: participating in visual lessons provides better learning of class materials.
+Conclusion: students can use iPads to learn better class materials.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: tourists increasingly booked and completed electronic transactions online
+Premise 2: Booking online is�easy and quick
+Conclusion: Tourists prefer  a quick and easy booking
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: my house has thin walls
+Premise 2: your neighbors can hear every single word you say when your house has thin walls
+Conclusion: my neighbors can hear every single word of what I say
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1:  An improvement in the functions of the brain helps the brain to stay active. 
+Premise 2:  The smart use of Smartphones increases your brain�s operations
+Conclusion: The smart use of Smartphone  helps the brain to stay active.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: If you�re not growing, you�re not being intelligent
+Premise 2: If you�re not changing, you�re not growing.
+Conclusion: If you�re not changing you�re not being intelligent
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: The period that hair growth comes to a complete stop and the hairs begin to fall out, affects about 15% of all hairs at a time.
+Premise 2: The period that hair growth comes to a complete stop and the hairs begin to fall out is known as telogen.
+Conclusion: Telogen period affects about 15% of all hairs at a time.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Sheikh Fazlollah contributed to�the uprising which led to the issuance of the�Constitutional Revolution of Iran.
+Premise 2: The constitutional revolution�led�to the establishment of a parliament in Iran.
+Conclusion: Sheikh Fazlollah contributed to the establishment of a parliament in Iran.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Circadian rhythms determines what times of day the body feels more alert as well as the times of day the body wants sleep.
+Premise 2: It�s important to understand Circadian rhythms that go into sleep.
+Conclusion: It�s important to understand during the day when the body feels more alert as well as the times of day the body wants sleep.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: the early melting of snow results in a greater flood risk
+Premise 2: high temperatures have resulted in the early melting of snow at heights
+Conclusion: high temperatures result in greater flood risks
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: People who spend most of their time with children must consider quitting smoking
+Premise 2: Babysitters struggle with children during the day
+Conclusion: Babysitters must consider quitting smoking
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Low energy building designs typically have a very low surface area to volume ratio to minimize heat loss
+Premise 2: A small surface to capacity ratio to cut down on heat waste,means that sprawling multi-winged building designs are often avoided in favor of more centralized structures
+Conclusion: sprawling multi-winged building designs are often avoided in favor of more centralized structures in low energy building designs
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Perforated dams prevent floods.
+Premise 2: Floods are a source of massive destruction to villages located on the downstream.
+Conclusion: Perforated�dams prevent massive destruction to villages located on the downstream.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Workers with long working hours tend to have weak psychic health.
+Premise 2:  Mental wellness difficulties typically make eating disorders.
+Conclusion: workers with long working hours tend to have eating disorders
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: There will be a decrease in the number of bookings if current visitors are annoyed
+Premise 2: A lack of hot water inside the room is going to anger the guests very much
+Conclusion: There will be a decrease in the number of bookings if there�s a shortage of hot water inside the rooms
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Flexural loads develop cracks in beam sections.
+Premise 2: Presence of cracks decreases the beam stiffness.
+Conclusion: Flexural loads decrease the beam stiffness.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: smoking can disturb sense of taste 
+Premise 2: people who don't have a proper undeC51rstanding of flavoring can't enjoy the taste of foods anymore.
+Conclusion: people who smoke can't enjoy the taste of foods anymore.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: my friend and I are going to see the 1998 tony award winner musical
+Premise 2: in 1998 , the play ""Rent"" won the tony award
+Conclusion: my friend and I are going to see a musical play named ""Rent""
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Your productivity skyrockets when you're feeling happier
+Premise 2: Interacting with others boosts feelings of well-being
+Conclusion: Interacting with other skyrockets your productivity
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: populist waves often rise in uncertain habitats
+Premise 2: low security levels create an unpredictable environment
+Conclusion: populist waves often rise when security levels are low
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Vegetables and fruits are the main source of fiber.
+Premise 2: Fibers play a massive role in well-functioning of our Digesting system.
+Conclusion: Vegetables and fruits play a massive role in well-functioning of our Digesting system.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Changing the climate causes global warming that all over the world are faced to.
+Premise 2: Fossil fuels and anthropogenic activity actually has fundamentally changed the climate.
+Conclusion: Fossil fuels and anthropogenic activity actually has fundamentally caused the global warming that all over the world are faced to.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Turbines on the dams generate electricity.
+Premise 2: The water behind the dams power up the turbines.
+Conclusion: The water behind the dams generate electricity.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Humans and chimpanzees share some remarkably similar characteristics.
+Premise 2: Sharing similar characteristics amongst different creatures puts them classifies them in a same category.
+Conclusion: Humans and chimpanzees are classified in a same category.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Ginger may protect against alzheimer's disease.
+Premise 2: Ginger can enhance brain function directly and 
+Conclusion: Direct enhance in brain function may protect against alzheimer's disease.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Hokkaid? is the second largest island in japan.
+Premise 2: Mount Tomuraushi is located in Hokkaid?.
+Conclusion: Mount Tomuraushi is in japan.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Researches show that group work creates more opportunities for critical thinking.
+Premise 2: Group work also can have a very positive impact on students learning outcomes.
+Conclusion: Critical thinking can effectively enhance learning for students.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Pesticides select for pesticide resistance in the pest population
+Premise 2: choosing those insects that are resilient to pesticide,warrants the development of a new pesticide
+Conclusion: Pesticides warrant the development of a new pesticide
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Unlike houses, apartment complexes are generally built with specific amenities
+Premise 2: Having certain facilities near you can contribute to a very convenient living arrangement
+Conclusion: Unlike houses, apartment complexes can contribute to a very convenient living arrangement
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Poverty encourages quarrels among family members
+Premise 2: Many marriages break up due to constant arguing in house
+Conclusion: Many marriages break up due to poverty
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: He wanted to choose an animal which look like the father of the forest as Smokey symbol.
+Premise 2: Bear looks like the father of the forest.
+Conclusion: He wanted to choose bear as Smokey symbol.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Pneumonia is an infection that inflames the air sacs in one or both lungs.
+Premise 2: Inflammation of lungs develops cough with phlegm or pus, fever, chills, and difficulty breathing
+Conclusion: Pneumonia  develops cough with phlegm or pus, fever, chills, and difficulty breathing
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: The hippocampus allows you to recall everything from typing on your keyboard to your first-grade music recital.
+Premise 2: The hippocampus is the largest part of the brain that accumulates these memories, placing each one in its proper place.
+Conclusion: The largest part of the brain that accumulates these memories, placing each one in its proper place, allows you to recall everything from typing on your keyboard to your first-grade music recital.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: When water is heated, the molecules circulate quickly.
+Premise 2: sharp movement in units of water can lead to boiling. 
+Conclusion: heating the water can lead to boiling
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: yellow, red and green (leafy) vegetables are having vitamin A inside them.
+Premise 2: Overusing vitamin A can cause bad effects on your body.
+Conclusion: yellow, red and green (leafy) vegetables will cause bad effects on your body.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Unbiased articles generate trust amongst the newspaper readers.
+Premise 2: Newspaper writers are supposed to write stories in an unbiased fashion.
+Conclusion: Newspaper writers are supposed to generate trust amongst the newspaper readers.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Small classes alows the students improve their speaking skills more than large lecture classes.
+Premise 2: Jhon prefer to participate a class in which improve his speaking skills.
+Conclusion: Jhon prefer to paticipate in small classes.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: The pure form of metal that are incredibly soft, malleable and ductile have led to its widespread use in the making of jewellery and art.
+Premise 2: The pure form of gold is incredibly soft, malleable and ductile
+Conclusion: The pure form of gold have led to its widespread use in the making of jewellery and art.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: High levels of mercury are linked to brain developmental problems
+Premise 2: Some fish are high in mercury
+Conclusion: Some fish are linked to brain developmental problems
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: you are better-equipped  to tackle any challenge you�ll ever face if you have more information in  your brain
+Premise 2: Everything you read fills your head with new bits of information.
+Conclusion: you are better-equipped  to tackle any challenge you�ll ever face if you read
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Tourism has become a pillar of socio-economic progress and a driver of sustainable development.
+Premise 2: sustainable development couldbecome an important source of competitive advantage
+Conclusion: Tourism will be a source of competitive advantage
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: for a person walking alone in the city at night, there is high chance for getting mugged
+Premise 2: Reza is going to walk home alone tonight
+Conclusion: there is a high chance of Reza getting mugged tonight
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: It is the duty of the government to provide the necessary facilities for the attainment of establishment of a family. 
+Premise 2: Hirsh needed to hold down two jobs to start a family.
+Conclusion: It is the duty of the government to provide the necessary facilities for the attainment of establishment of a family. 
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: decreased annual profit can pose serious dangers to the company
+Premise 2: the implications of the proposed changes include less annual profit
+Conclusion: the implications of the proposed changes pose serious dangers to the company
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Peripheral artery disease, which occurs when the arteries to the arms and legs start to narrow, restricting blood flow.
+Premise 2: By smoking the arteries to the arms and legs start to narrow, restricting blood flow.
+Conclusion: Smoking increases the risk of peripheral artery disease.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Pantothenic acid has several functions, such as helping to release energy from food.
+Premise 2: chicken is a great source of Pantothenic acid.
+Conclusion: chicken can help releasing energy from food.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: The education system needs flexibility to prepare the young generation for a successful future
+Premise 2: Tanzania's higher education system is too rigid
+Conclusion: Tanzania education system could not prepare its young generation to be successful
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Releasing so much formic acid into the air make breating around the place is so much painful and difficult.
+Premise 2: Yellow crazy ants's population releases so much formic acid into the air around their nest.
+Conclusion: Breathing around Yellow crazy ants's nest is so much painful and difficult.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: People living in poverty often don't have access to decent nutrients
+Premise 2: You are likely to get sick more often, when you don't get enough nutrients
+Conclusion: People living in poverty are likely to get sick more often
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: In a conventional retail store, clerks are generally available to answer questions.
+Premise 2: Customers need someone to have an explanation and solution for their problems to choose better. 
+Conclusion: In a conventional retail store, clerks are generally available to help customers to choose better.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: children who don't have father are obliged to work.
+Premise 2: prevalence of AIDS throughout many developing countries has resulted an enormous number of orphans.
+Conclusion: prevalence of AIDS throughout many developing countries has resulted an obligation for children to work
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: technology has brought many great developments in education.
+Premise 2: Countries with advanced schooling and training have a better culture.
+Conclusion: technology has brought many great developments in culture.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Soft tempered copper is extremely malleable
+Premise 2: exceptionally ductile material offers far little resistance
+Conclusion: Soft tempered copper offers far little resistance
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: professional degrees such as engineering or law are completed over four years.
+Premise 2: all IBM employees should have an engineer degree.
+Conclusion:  IBM employees should spend four years to complete a professional degree.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Antioxidants are substances that may protect your cells against free radicals.
+Premise 2: Dark chocolate has significant antioxidant content.
+Conclusion: Dark chocolate helps protecting your cells against free radicals.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: a boosted forbearence towards alcohol,means that an individual is able to consume more alcohol
+Premise 2: Alcoholism is characterised by an advanced tolerance to alcohol
+Conclusion: Alcoholism means that an individual is able to consume more alcohol
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Tourism puts enormous stress on endangered species.
+Premise 2: placing pressure on endangered species can gradually destroy the environmental resources. 
+Conclusion: Tourism can gradually destroy the environmental resources.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: The wind energy is from heat and pressure in weather patterns
+Premise 2: The heat and pressure in weather patterns is from sun's energy which warms the surface by sunshine
+Conclusion: The wind energy power is from sun's energy which warms the surface by sunshine.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Chicago is the county seat of Cook County
+Premise 2: county seat is a seat of local government in a region
+Conclusion: Chicago is the seat of local government in cook county
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: penguin colonies lives in Antarctica are depend on sea ices.
+Premise 2: glacier conditions are in critical situation in Antarctica.
+Conclusion: penguin colonies lives are in a critical situation in Antarctica.
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: developing Group spirit is usually associated with creating life long connections
+Premise 2: the close proximity of apartment life enhances the probability of creating a sense of community
+Conclusion: The close proximity of apartment life is associated with creating life long connections
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: It is easier to perfect your product if you're aware of the consumer demand
+Premise 2: Researching the market gives you further ideas about what the customer want
+Conclusion: It is easier to perfect your product if you research the market
+A:","[' Yes',' No']",0
+"Q: Given these premises; does the conclusion logically follow?
+Premise 1: Hurricanes carry a lot of rains with themselves
+Premise 2: Severe drizzles can bring about a lot of floods
+Conclusion: Hurricanes can bring about a lot of floods
+A:","[' Yes',' No']",0
