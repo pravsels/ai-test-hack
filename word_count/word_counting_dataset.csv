@@ -1,1037 +1,1037 @@
-,prompt,answer
+,prompt,classes
 0,"Q: Count the number of letters in the word 'england' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 1,"Q: How many occurences of the letter 'e' occur in the word 'england' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 2,"Q: How many occurences of the letter 'a' occur in the word 'england' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 3,"Q: How many occurences of the letter 'n' occur in the word 'england' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 4,"Q: How many occurences of the letter 'g' occur in the word 'england' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 5,"Q: How many occurences of the letter 'd' occur in the word 'england' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 6,"Q: How many occurences of the letter 'l' occur in the word 'england' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 7,"Q: Count the number of letters in the word 'france' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 8,"Q: How many occurences of the letter 'f' occur in the word 'france' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 9,"Q: How many occurences of the letter 'e' occur in the word 'france' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 10,"Q: How many occurences of the letter 'a' occur in the word 'france' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 11,"Q: How many occurences of the letter 'n' occur in the word 'france' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 12,"Q: How many occurences of the letter 'r' occur in the word 'france' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 13,"Q: How many occurences of the letter 'c' occur in the word 'france' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 14,"Q: Count the number of letters in the word 'germany' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 15,"Q: How many occurences of the letter 'e' occur in the word 'germany' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 16,"Q: How many occurences of the letter 'a' occur in the word 'germany' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 17,"Q: How many occurences of the letter 'g' occur in the word 'germany' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 18,"Q: How many occurences of the letter 'n' occur in the word 'germany' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 19,"Q: How many occurences of the letter 'y' occur in the word 'germany' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 20,"Q: How many occurences of the letter 'r' occur in the word 'germany' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 21,"Q: How many occurences of the letter 'm' occur in the word 'germany' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 22,"Q: Count the number of letters in the word 'russia' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 23,"Q: How many occurences of the letter 'i' occur in the word 'russia' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 24,"Q: How many occurences of the letter 'a' occur in the word 'russia' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 25,"Q: How many occurences of the letter 's' occur in the word 'russia' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 26,"Q: How many occurences of the letter 'u' occur in the word 'russia' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 27,"Q: How many occurences of the letter 'r' occur in the word 'russia' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 28,"Q: Count the number of letters in the word 'austria' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 29,"Q: How many occurences of the letter 'i' occur in the word 'austria' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 30,"Q: How many occurences of the letter 'a' occur in the word 'austria' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 31,"Q: How many occurences of the letter 's' occur in the word 'austria' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 32,"Q: How many occurences of the letter 't' occur in the word 'austria' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 33,"Q: How many occurences of the letter 'u' occur in the word 'austria' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 34,"Q: How many occurences of the letter 'r' occur in the word 'austria' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 35,"Q: Count the number of letters in the word 'america' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 36,"Q: How many occurences of the letter 'c' occur in the word 'america' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 37,"Q: How many occurences of the letter 'e' occur in the word 'america' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 38,"Q: How many occurences of the letter 'i' occur in the word 'america' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 39,"Q: How many occurences of the letter 'a' occur in the word 'america' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 40,"Q: How many occurences of the letter 'r' occur in the word 'america' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 41,"Q: How many occurences of the letter 'm' occur in the word 'america' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 42,"Q: Count the number of letters in the word 'canada' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 43,"Q: How many occurences of the letter 'n' occur in the word 'canada' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 44,"Q: How many occurences of the letter 'a' occur in the word 'canada' ? 
- A: ","3,three"
+ A: ","[' 3', ' three']"
 45,"Q: How many occurences of the letter 'c' occur in the word 'canada' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 46,"Q: How many occurences of the letter 'd' occur in the word 'canada' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 47,"Q: Count the number of letters in the word 'china' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 48,"Q: How many occurences of the letter 'i' occur in the word 'china' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 49,"Q: How many occurences of the letter 'a' occur in the word 'china' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 50,"Q: How many occurences of the letter 'h' occur in the word 'china' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 51,"Q: How many occurences of the letter 'n' occur in the word 'china' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 52,"Q: How many occurences of the letter 'c' occur in the word 'china' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 53,"Q: Count the number of letters in the word 'india' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 54,"Q: How many occurences of the letter 'd' occur in the word 'india' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 55,"Q: How many occurences of the letter 'a' occur in the word 'india' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 56,"Q: How many occurences of the letter 'n' occur in the word 'india' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 57,"Q: How many occurences of the letter 'i' occur in the word 'india' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 58,"Q: Count the number of letters in the word 'brazil' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 59,"Q: How many occurences of the letter 'i' occur in the word 'brazil' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 60,"Q: How many occurences of the letter 'z' occur in the word 'brazil' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 61,"Q: How many occurences of the letter 'a' occur in the word 'brazil' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 62,"Q: How many occurences of the letter 'b' occur in the word 'brazil' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 63,"Q: How many occurences of the letter 'r' occur in the word 'brazil' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 64,"Q: How many occurences of the letter 'l' occur in the word 'brazil' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 65,"Q: Count the number of letters in the word 'dune' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 66,"Q: How many occurences of the letter 'u' occur in the word 'dune' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 67,"Q: How many occurences of the letter 'e' occur in the word 'dune' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 68,"Q: How many occurences of the letter 'd' occur in the word 'dune' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 69,"Q: How many occurences of the letter 'n' occur in the word 'dune' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 70,"Q: Count the number of letters in the word 'mars' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 71,"Q: How many occurences of the letter 'a' occur in the word 'mars' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 72,"Q: How many occurences of the letter 'm' occur in the word 'mars' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 73,"Q: How many occurences of the letter 's' occur in the word 'mars' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 74,"Q: How many occurences of the letter 'r' occur in the word 'mars' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 75,"Q: Count the number of letters in the word 'jupiter' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 76,"Q: How many occurences of the letter 'e' occur in the word 'jupiter' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 77,"Q: How many occurences of the letter 'i' occur in the word 'jupiter' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 78,"Q: How many occurences of the letter 'p' occur in the word 'jupiter' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 79,"Q: How many occurences of the letter 'j' occur in the word 'jupiter' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 80,"Q: How many occurences of the letter 't' occur in the word 'jupiter' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 81,"Q: How many occurences of the letter 'u' occur in the word 'jupiter' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 82,"Q: How many occurences of the letter 'r' occur in the word 'jupiter' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 83,"Q: Count the number of letters in the word 'saturn' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 84,"Q: How many occurences of the letter 'a' occur in the word 'saturn' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 85,"Q: How many occurences of the letter 's' occur in the word 'saturn' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 86,"Q: How many occurences of the letter 't' occur in the word 'saturn' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 87,"Q: How many occurences of the letter 'u' occur in the word 'saturn' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 88,"Q: How many occurences of the letter 'n' occur in the word 'saturn' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 89,"Q: How many occurences of the letter 'r' occur in the word 'saturn' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 90,"Q: Count the number of letters in the word 'venus' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 91,"Q: How many occurences of the letter 'e' occur in the word 'venus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 92,"Q: How many occurences of the letter 's' occur in the word 'venus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 93,"Q: How many occurences of the letter 'u' occur in the word 'venus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 94,"Q: How many occurences of the letter 'n' occur in the word 'venus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 95,"Q: How many occurences of the letter 'v' occur in the word 'venus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 96,"Q: Count the number of letters in the word 'mercury' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 97,"Q: How many occurences of the letter 'm' occur in the word 'mercury' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 98,"Q: How many occurences of the letter 'e' occur in the word 'mercury' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 99,"Q: How many occurences of the letter 'u' occur in the word 'mercury' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 100,"Q: How many occurences of the letter 'y' occur in the word 'mercury' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 101,"Q: How many occurences of the letter 'r' occur in the word 'mercury' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 102,"Q: How many occurences of the letter 'c' occur in the word 'mercury' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 103,"Q: Count the number of letters in the word 'uranus' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 104,"Q: How many occurences of the letter 'a' occur in the word 'uranus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 105,"Q: How many occurences of the letter 's' occur in the word 'uranus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 106,"Q: How many occurences of the letter 'u' occur in the word 'uranus' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 107,"Q: How many occurences of the letter 'n' occur in the word 'uranus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 108,"Q: How many occurences of the letter 'r' occur in the word 'uranus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 109,"Q: Count the number of letters in the word 'giedi' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 110,"Q: How many occurences of the letter 'd' occur in the word 'giedi' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 111,"Q: How many occurences of the letter 'e' occur in the word 'giedi' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 112,"Q: How many occurences of the letter 'g' occur in the word 'giedi' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 113,"Q: How many occurences of the letter 'i' occur in the word 'giedi' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 114,"Q: Count the number of letters in the word 'caladan' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 115,"Q: How many occurences of the letter 'a' occur in the word 'caladan' ? 
- A: ","3,three"
+ A: ","[' 3', ' three']"
 116,"Q: How many occurences of the letter 'd' occur in the word 'caladan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 117,"Q: How many occurences of the letter 'n' occur in the word 'caladan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 118,"Q: How many occurences of the letter 'c' occur in the word 'caladan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 119,"Q: How many occurences of the letter 'l' occur in the word 'caladan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 120,"Q: Count the number of letters in the word 'kaitan' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 121,"Q: How many occurences of the letter 'i' occur in the word 'kaitan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 122,"Q: How many occurences of the letter 'a' occur in the word 'kaitan' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 123,"Q: How many occurences of the letter 't' occur in the word 'kaitan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 124,"Q: How many occurences of the letter 'k' occur in the word 'kaitan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 125,"Q: How many occurences of the letter 'n' occur in the word 'kaitan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 126,"Q: Count the number of letters in the word 'salusa' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 127,"Q: How many occurences of the letter 'u' occur in the word 'salusa' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 128,"Q: How many occurences of the letter 'a' occur in the word 'salusa' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 129,"Q: How many occurences of the letter 'l' occur in the word 'salusa' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 130,"Q: How many occurences of the letter 's' occur in the word 'salusa' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 131,"Q: Count the number of letters in the word 'alexander' ? 
- A: ","9,nine"
+ A: ","[' 9', ' nine']"
 132,"Q: How many occurences of the letter 'e' occur in the word 'alexander' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 133,"Q: How many occurences of the letter 'a' occur in the word 'alexander' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 134,"Q: How many occurences of the letter 'n' occur in the word 'alexander' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 135,"Q: How many occurences of the letter 'd' occur in the word 'alexander' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 136,"Q: How many occurences of the letter 'x' occur in the word 'alexander' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 137,"Q: How many occurences of the letter 'r' occur in the word 'alexander' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 138,"Q: How many occurences of the letter 'l' occur in the word 'alexander' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 139,"Q: Count the number of letters in the word 'caesar' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 140,"Q: How many occurences of the letter 'e' occur in the word 'caesar' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 141,"Q: How many occurences of the letter 'a' occur in the word 'caesar' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 142,"Q: How many occurences of the letter 's' occur in the word 'caesar' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 143,"Q: How many occurences of the letter 'r' occur in the word 'caesar' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 144,"Q: How many occurences of the letter 'c' occur in the word 'caesar' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 145,"Q: Count the number of letters in the word 'napoleon' ? 
- A: ","8,eight"
+ A: ","[' 8', ' eight']"
 146,"Q: How many occurences of the letter 'e' occur in the word 'napoleon' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 147,"Q: How many occurences of the letter 'p' occur in the word 'napoleon' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 148,"Q: How many occurences of the letter 'a' occur in the word 'napoleon' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 149,"Q: How many occurences of the letter 'o' occur in the word 'napoleon' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 150,"Q: How many occurences of the letter 'n' occur in the word 'napoleon' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 151,"Q: How many occurences of the letter 'l' occur in the word 'napoleon' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 152,"Q: Count the number of letters in the word 'genghis' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 153,"Q: How many occurences of the letter 'e' occur in the word 'genghis' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 154,"Q: How many occurences of the letter 'i' occur in the word 'genghis' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 155,"Q: How many occurences of the letter 'h' occur in the word 'genghis' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 156,"Q: How many occurences of the letter 's' occur in the word 'genghis' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 157,"Q: How many occurences of the letter 'n' occur in the word 'genghis' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 158,"Q: How many occurences of the letter 'g' occur in the word 'genghis' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 159,"Q: Count the number of letters in the word 'cyrus' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 160,"Q: How many occurences of the letter 's' occur in the word 'cyrus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 161,"Q: How many occurences of the letter 'u' occur in the word 'cyrus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 162,"Q: How many occurences of the letter 'y' occur in the word 'cyrus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 163,"Q: How many occurences of the letter 'r' occur in the word 'cyrus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 164,"Q: How many occurences of the letter 'c' occur in the word 'cyrus' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 165,"Q: Count the number of letters in the word 'tamerlane' ? 
- A: ","9,nine"
+ A: ","[' 9', ' nine']"
 166,"Q: How many occurences of the letter 'e' occur in the word 'tamerlane' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 167,"Q: How many occurences of the letter 'a' occur in the word 'tamerlane' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 168,"Q: How many occurences of the letter 't' occur in the word 'tamerlane' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 169,"Q: How many occurences of the letter 'n' occur in the word 'tamerlane' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 170,"Q: How many occurences of the letter 'r' occur in the word 'tamerlane' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 171,"Q: How many occurences of the letter 'm' occur in the word 'tamerlane' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 172,"Q: How many occurences of the letter 'l' occur in the word 'tamerlane' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 173,"Q: Count the number of letters in the word 'attila' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 174,"Q: How many occurences of the letter 'a' occur in the word 'attila' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 175,"Q: How many occurences of the letter 'l' occur in the word 'attila' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 176,"Q: How many occurences of the letter 'i' occur in the word 'attila' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 177,"Q: How many occurences of the letter 't' occur in the word 'attila' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 178,"Q: Count the number of letters in the word 'stalin' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 179,"Q: How many occurences of the letter 'i' occur in the word 'stalin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 180,"Q: How many occurences of the letter 'a' occur in the word 'stalin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 181,"Q: How many occurences of the letter 's' occur in the word 'stalin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 182,"Q: How many occurences of the letter 't' occur in the word 'stalin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 183,"Q: How many occurences of the letter 'n' occur in the word 'stalin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 184,"Q: How many occurences of the letter 'l' occur in the word 'stalin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 185,"Q: Count the number of letters in the word 'musk' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 186,"Q: How many occurences of the letter 'u' occur in the word 'musk' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 187,"Q: How many occurences of the letter 'm' occur in the word 'musk' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 188,"Q: How many occurences of the letter 'k' occur in the word 'musk' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 189,"Q: How many occurences of the letter 's' occur in the word 'musk' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 190,"Q: Count the number of letters in the word 'bezos' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 191,"Q: How many occurences of the letter 'e' occur in the word 'bezos' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 192,"Q: How many occurences of the letter 'z' occur in the word 'bezos' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 193,"Q: How many occurences of the letter 'o' occur in the word 'bezos' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 194,"Q: How many occurences of the letter 's' occur in the word 'bezos' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 195,"Q: How many occurences of the letter 'b' occur in the word 'bezos' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 196,"Q: Count the number of letters in the word 'zuckerberg' ? 
- A: ","10,ten"
+ A: ","[' 10', ' ten']"
 197,"Q: How many occurences of the letter 'e' occur in the word 'zuckerberg' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 198,"Q: How many occurences of the letter 'z' occur in the word 'zuckerberg' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 199,"Q: How many occurences of the letter 'k' occur in the word 'zuckerberg' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 200,"Q: How many occurences of the letter 'u' occur in the word 'zuckerberg' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 201,"Q: How many occurences of the letter 'g' occur in the word 'zuckerberg' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 202,"Q: How many occurences of the letter 'b' occur in the word 'zuckerberg' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 203,"Q: How many occurences of the letter 'r' occur in the word 'zuckerberg' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 204,"Q: How many occurences of the letter 'c' occur in the word 'zuckerberg' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 205,"Q: Count the number of letters in the word 'altman' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 206,"Q: How many occurences of the letter 'a' occur in the word 'altman' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 207,"Q: How many occurences of the letter 't' occur in the word 'altman' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 208,"Q: How many occurences of the letter 'n' occur in the word 'altman' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 209,"Q: How many occurences of the letter 'm' occur in the word 'altman' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 210,"Q: How many occurences of the letter 'l' occur in the word 'altman' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 211,"Q: Count the number of letters in the word 'jobs' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 212,"Q: How many occurences of the letter 'o' occur in the word 'jobs' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 213,"Q: How many occurences of the letter 'j' occur in the word 'jobs' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 214,"Q: How many occurences of the letter 's' occur in the word 'jobs' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 215,"Q: How many occurences of the letter 'b' occur in the word 'jobs' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 216,"Q: Count the number of letters in the word 'gates' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 217,"Q: How many occurences of the letter 'e' occur in the word 'gates' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 218,"Q: How many occurences of the letter 'a' occur in the word 'gates' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 219,"Q: How many occurences of the letter 's' occur in the word 'gates' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 220,"Q: How many occurences of the letter 't' occur in the word 'gates' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 221,"Q: How many occurences of the letter 'g' occur in the word 'gates' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 222,"Q: Count the number of letters in the word 'hughes' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 223,"Q: How many occurences of the letter 'e' occur in the word 'hughes' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 224,"Q: How many occurences of the letter 'h' occur in the word 'hughes' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 225,"Q: How many occurences of the letter 's' occur in the word 'hughes' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 226,"Q: How many occurences of the letter 'u' occur in the word 'hughes' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 227,"Q: How many occurences of the letter 'g' occur in the word 'hughes' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 228,"Q: Count the number of letters in the word 'page' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 229,"Q: How many occurences of the letter 'a' occur in the word 'page' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 230,"Q: How many occurences of the letter 'g' occur in the word 'page' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 231,"Q: How many occurences of the letter 'p' occur in the word 'page' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 232,"Q: How many occurences of the letter 'e' occur in the word 'page' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 233,"Q: Count the number of letters in the word 'brin' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 234,"Q: How many occurences of the letter 'n' occur in the word 'brin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 235,"Q: How many occurences of the letter 'i' occur in the word 'brin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 236,"Q: How many occurences of the letter 'b' occur in the word 'brin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 237,"Q: How many occurences of the letter 'r' occur in the word 'brin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 238,"Q: Count the number of letters in the word 'ellison' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 239,"Q: How many occurences of the letter 'e' occur in the word 'ellison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 240,"Q: How many occurences of the letter 'i' occur in the word 'ellison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 241,"Q: How many occurences of the letter 'o' occur in the word 'ellison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 242,"Q: How many occurences of the letter 's' occur in the word 'ellison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 243,"Q: How many occurences of the letter 'n' occur in the word 'ellison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 244,"Q: How many occurences of the letter 'l' occur in the word 'ellison' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 245,"Q: Count the number of letters in the word 'edison' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 246,"Q: How many occurences of the letter 'e' occur in the word 'edison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 247,"Q: How many occurences of the letter 'i' occur in the word 'edison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 248,"Q: How many occurences of the letter 'o' occur in the word 'edison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 249,"Q: How many occurences of the letter 's' occur in the word 'edison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 250,"Q: How many occurences of the letter 'd' occur in the word 'edison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 251,"Q: How many occurences of the letter 'n' occur in the word 'edison' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 252,"Q: Count the number of letters in the word 'wright' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 253,"Q: How many occurences of the letter 'i' occur in the word 'wright' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 254,"Q: How many occurences of the letter 'h' occur in the word 'wright' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 255,"Q: How many occurences of the letter 't' occur in the word 'wright' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 256,"Q: How many occurences of the letter 'g' occur in the word 'wright' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 257,"Q: How many occurences of the letter 'w' occur in the word 'wright' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 258,"Q: How many occurences of the letter 'r' occur in the word 'wright' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 259,"Q: Count the number of letters in the word 'galton' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 260,"Q: How many occurences of the letter 'a' occur in the word 'galton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 261,"Q: How many occurences of the letter 'o' occur in the word 'galton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 262,"Q: How many occurences of the letter 't' occur in the word 'galton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 263,"Q: How many occurences of the letter 'g' occur in the word 'galton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 264,"Q: How many occurences of the letter 'n' occur in the word 'galton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 265,"Q: How many occurences of the letter 'l' occur in the word 'galton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 266,"Q: Count the number of letters in the word 'darwin' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 267,"Q: How many occurences of the letter 'i' occur in the word 'darwin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 268,"Q: How many occurences of the letter 'a' occur in the word 'darwin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 269,"Q: How many occurences of the letter 'd' occur in the word 'darwin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 270,"Q: How many occurences of the letter 'w' occur in the word 'darwin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 271,"Q: How many occurences of the letter 'n' occur in the word 'darwin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 272,"Q: How many occurences of the letter 'r' occur in the word 'darwin' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 273,"Q: Count the number of letters in the word 'turing' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 274,"Q: How many occurences of the letter 'i' occur in the word 'turing' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 275,"Q: How many occurences of the letter 't' occur in the word 'turing' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 276,"Q: How many occurences of the letter 'u' occur in the word 'turing' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 277,"Q: How many occurences of the letter 'n' occur in the word 'turing' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 278,"Q: How many occurences of the letter 'g' occur in the word 'turing' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 279,"Q: How many occurences of the letter 'r' occur in the word 'turing' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 280,"Q: Count the number of letters in the word 'newton' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 281,"Q: How many occurences of the letter 'e' occur in the word 'newton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 282,"Q: How many occurences of the letter 'o' occur in the word 'newton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 283,"Q: How many occurences of the letter 't' occur in the word 'newton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 284,"Q: How many occurences of the letter 'n' occur in the word 'newton' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 285,"Q: How many occurences of the letter 'w' occur in the word 'newton' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 286,"Q: Count the number of letters in the word 'tesla' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 287,"Q: How many occurences of the letter 'e' occur in the word 'tesla' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 288,"Q: How many occurences of the letter 'a' occur in the word 'tesla' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 289,"Q: How many occurences of the letter 's' occur in the word 'tesla' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 290,"Q: How many occurences of the letter 't' occur in the word 'tesla' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 291,"Q: How many occurences of the letter 'l' occur in the word 'tesla' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 292,"Q: Count the number of letters in the word 'faraday' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 293,"Q: How many occurences of the letter 'f' occur in the word 'faraday' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 294,"Q: How many occurences of the letter 'r' occur in the word 'faraday' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 295,"Q: How many occurences of the letter 'a' occur in the word 'faraday' ? 
- A: ","3,three"
+ A: ","[' 3', ' three']"
 296,"Q: How many occurences of the letter 'd' occur in the word 'faraday' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 297,"Q: How many occurences of the letter 'y' occur in the word 'faraday' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 298,"Q: Count the number of letters in the word 'watson' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 299,"Q: How many occurences of the letter 'a' occur in the word 'watson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 300,"Q: How many occurences of the letter 'o' occur in the word 'watson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 301,"Q: How many occurences of the letter 's' occur in the word 'watson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 302,"Q: How many occurences of the letter 't' occur in the word 'watson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 303,"Q: How many occurences of the letter 'n' occur in the word 'watson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 304,"Q: How many occurences of the letter 'w' occur in the word 'watson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 305,"Q: Count the number of letters in the word 'crick' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 306,"Q: How many occurences of the letter 'k' occur in the word 'crick' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 307,"Q: How many occurences of the letter 'c' occur in the word 'crick' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 308,"Q: How many occurences of the letter 'i' occur in the word 'crick' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 309,"Q: How many occurences of the letter 'r' occur in the word 'crick' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 310,"Q: Count the number of letters in the word 'rowling' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 311,"Q: How many occurences of the letter 'i' occur in the word 'rowling' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 312,"Q: How many occurences of the letter 'o' occur in the word 'rowling' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 313,"Q: How many occurences of the letter 'n' occur in the word 'rowling' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 314,"Q: How many occurences of the letter 'w' occur in the word 'rowling' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 315,"Q: How many occurences of the letter 'g' occur in the word 'rowling' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 316,"Q: How many occurences of the letter 'r' occur in the word 'rowling' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 317,"Q: How many occurences of the letter 'l' occur in the word 'rowling' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 318,"Q: Count the number of letters in the word 'christie' ? 
- A: ","8,eight"
+ A: ","[' 8', ' eight']"
 319,"Q: How many occurences of the letter 'e' occur in the word 'christie' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 320,"Q: How many occurences of the letter 'i' occur in the word 'christie' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 321,"Q: How many occurences of the letter 'h' occur in the word 'christie' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 322,"Q: How many occurences of the letter 's' occur in the word 'christie' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 323,"Q: How many occurences of the letter 't' occur in the word 'christie' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 324,"Q: How many occurences of the letter 'r' occur in the word 'christie' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 325,"Q: How many occurences of the letter 'c' occur in the word 'christie' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 326,"Q: Count the number of letters in the word 'king' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 327,"Q: How many occurences of the letter 'k' occur in the word 'king' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 328,"Q: How many occurences of the letter 'g' occur in the word 'king' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 329,"Q: How many occurences of the letter 'n' occur in the word 'king' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 330,"Q: How many occurences of the letter 'i' occur in the word 'king' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 331,"Q: Count the number of letters in the word 'tolstoy' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 332,"Q: How many occurences of the letter 'o' occur in the word 'tolstoy' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 333,"Q: How many occurences of the letter 's' occur in the word 'tolstoy' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 334,"Q: How many occurences of the letter 't' occur in the word 'tolstoy' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 335,"Q: How many occurences of the letter 'y' occur in the word 'tolstoy' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 336,"Q: How many occurences of the letter 'l' occur in the word 'tolstoy' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 337,"Q: Count the number of letters in the word 'austen' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 338,"Q: How many occurences of the letter 'e' occur in the word 'austen' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 339,"Q: How many occurences of the letter 'a' occur in the word 'austen' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 340,"Q: How many occurences of the letter 's' occur in the word 'austen' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 341,"Q: How many occurences of the letter 't' occur in the word 'austen' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 342,"Q: How many occurences of the letter 'u' occur in the word 'austen' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 343,"Q: How many occurences of the letter 'n' occur in the word 'austen' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 344,"Q: Count the number of letters in the word 'tolkien' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 345,"Q: How many occurences of the letter 'e' occur in the word 'tolkien' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 346,"Q: How many occurences of the letter 'i' occur in the word 'tolkien' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 347,"Q: How many occurences of the letter 'o' occur in the word 'tolkien' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 348,"Q: How many occurences of the letter 't' occur in the word 'tolkien' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 349,"Q: How many occurences of the letter 'k' occur in the word 'tolkien' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 350,"Q: How many occurences of the letter 'n' occur in the word 'tolkien' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 351,"Q: How many occurences of the letter 'l' occur in the word 'tolkien' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 352,"Q: Count the number of letters in the word 'orwell' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 353,"Q: How many occurences of the letter 'e' occur in the word 'orwell' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 354,"Q: How many occurences of the letter 'o' occur in the word 'orwell' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 355,"Q: How many occurences of the letter 'w' occur in the word 'orwell' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 356,"Q: How many occurences of the letter 'r' occur in the word 'orwell' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 357,"Q: How many occurences of the letter 'l' occur in the word 'orwell' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 358,"Q: Count the number of letters in the word 'dickens' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 359,"Q: How many occurences of the letter 'e' occur in the word 'dickens' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 360,"Q: How many occurences of the letter 'i' occur in the word 'dickens' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 361,"Q: How many occurences of the letter 's' occur in the word 'dickens' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 362,"Q: How many occurences of the letter 'k' occur in the word 'dickens' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 363,"Q: How many occurences of the letter 'd' occur in the word 'dickens' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 364,"Q: How many occurences of the letter 'n' occur in the word 'dickens' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 365,"Q: How many occurences of the letter 'c' occur in the word 'dickens' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 366,"Q: Count the number of letters in the word 'dostoevsky' ? 
- A: ","10,ten"
+ A: ","[' 10', ' ten']"
 367,"Q: How many occurences of the letter 'e' occur in the word 'dostoevsky' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 368,"Q: How many occurences of the letter 'o' occur in the word 'dostoevsky' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 369,"Q: How many occurences of the letter 's' occur in the word 'dostoevsky' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 370,"Q: How many occurences of the letter 't' occur in the word 'dostoevsky' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 371,"Q: How many occurences of the letter 'k' occur in the word 'dostoevsky' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 372,"Q: How many occurences of the letter 'd' occur in the word 'dostoevsky' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 373,"Q: How many occurences of the letter 'v' occur in the word 'dostoevsky' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 374,"Q: How many occurences of the letter 'y' occur in the word 'dostoevsky' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 375,"Q: Count the number of letters in the word 'gaiman' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 376,"Q: How many occurences of the letter 'i' occur in the word 'gaiman' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 377,"Q: How many occurences of the letter 'a' occur in the word 'gaiman' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 378,"Q: How many occurences of the letter 'n' occur in the word 'gaiman' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 379,"Q: How many occurences of the letter 'g' occur in the word 'gaiman' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 380,"Q: How many occurences of the letter 'm' occur in the word 'gaiman' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 381,"Q: Count the number of letters in the word 'locke' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 382,"Q: How many occurences of the letter 'e' occur in the word 'locke' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 383,"Q: How many occurences of the letter 'o' occur in the word 'locke' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 384,"Q: How many occurences of the letter 'k' occur in the word 'locke' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 385,"Q: How many occurences of the letter 'c' occur in the word 'locke' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 386,"Q: How many occurences of the letter 'l' occur in the word 'locke' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 387,"Q: Count the number of letters in the word 'kant' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 388,"Q: How many occurences of the letter 'k' occur in the word 'kant' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 389,"Q: How many occurences of the letter 'a' occur in the word 'kant' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 390,"Q: How many occurences of the letter 'n' occur in the word 'kant' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 391,"Q: How many occurences of the letter 't' occur in the word 'kant' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 392,"Q: Count the number of letters in the word 'hume' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 393,"Q: How many occurences of the letter 'u' occur in the word 'hume' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 394,"Q: How many occurences of the letter 'e' occur in the word 'hume' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 395,"Q: How many occurences of the letter 'm' occur in the word 'hume' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 396,"Q: How many occurences of the letter 'h' occur in the word 'hume' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 397,"Q: Count the number of letters in the word 'nietzsche' ? 
- A: ","9,nine"
+ A: ","[' 9', ' nine']"
 398,"Q: How many occurences of the letter 'e' occur in the word 'nietzsche' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 399,"Q: How many occurences of the letter 'i' occur in the word 'nietzsche' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 400,"Q: How many occurences of the letter 'z' occur in the word 'nietzsche' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 401,"Q: How many occurences of the letter 'h' occur in the word 'nietzsche' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 402,"Q: How many occurences of the letter 't' occur in the word 'nietzsche' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 403,"Q: How many occurences of the letter 's' occur in the word 'nietzsche' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 404,"Q: How many occurences of the letter 'n' occur in the word 'nietzsche' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 405,"Q: How many occurences of the letter 'c' occur in the word 'nietzsche' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 406,"Q: Count the number of letters in the word 'machiavelli' ? 
- A: ","11,eleven"
+ A: ","[' 11', ' eleven']"
 407,"Q: How many occurences of the letter 'm' occur in the word 'machiavelli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 408,"Q: How many occurences of the letter 'e' occur in the word 'machiavelli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 409,"Q: How many occurences of the letter 'i' occur in the word 'machiavelli' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 410,"Q: How many occurences of the letter 'a' occur in the word 'machiavelli' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 411,"Q: How many occurences of the letter 'h' occur in the word 'machiavelli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 412,"Q: How many occurences of the letter 'v' occur in the word 'machiavelli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 413,"Q: How many occurences of the letter 'c' occur in the word 'machiavelli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 414,"Q: How many occurences of the letter 'l' occur in the word 'machiavelli' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 415,"Q: Count the number of letters in the word 'rand' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 416,"Q: How many occurences of the letter 'd' occur in the word 'rand' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 417,"Q: How many occurences of the letter 'a' occur in the word 'rand' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 418,"Q: How many occurences of the letter 'n' occur in the word 'rand' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 419,"Q: How many occurences of the letter 'r' occur in the word 'rand' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 420,"Q: Count the number of letters in the word 'rousseau' ? 
- A: ","8,eight"
+ A: ","[' 8', ' eight']"
 421,"Q: How many occurences of the letter 'e' occur in the word 'rousseau' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 422,"Q: How many occurences of the letter 'a' occur in the word 'rousseau' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 423,"Q: How many occurences of the letter 'o' occur in the word 'rousseau' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 424,"Q: How many occurences of the letter 's' occur in the word 'rousseau' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 425,"Q: How many occurences of the letter 'u' occur in the word 'rousseau' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 426,"Q: How many occurences of the letter 'r' occur in the word 'rousseau' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 427,"Q: Count the number of letters in the word 'hobbes' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 428,"Q: How many occurences of the letter 'e' occur in the word 'hobbes' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 429,"Q: How many occurences of the letter 'o' occur in the word 'hobbes' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 430,"Q: How many occurences of the letter 'h' occur in the word 'hobbes' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 431,"Q: How many occurences of the letter 's' occur in the word 'hobbes' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 432,"Q: How many occurences of the letter 'b' occur in the word 'hobbes' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 433,"Q: Count the number of letters in the word 'mill' ? 
- A: ","4,four"
+ A: ","[' 4', ' four']"
 434,"Q: How many occurences of the letter 'l' occur in the word 'mill' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 435,"Q: How many occurences of the letter 'm' occur in the word 'mill' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 436,"Q: How many occurences of the letter 'i' occur in the word 'mill' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 437,"Q: Count the number of letters in the word 'popper' ? 
- A: ","6,six"
+ A: ","[' 6', ' six']"
 438,"Q: How many occurences of the letter 'e' occur in the word 'popper' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 439,"Q: How many occurences of the letter 'o' occur in the word 'popper' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 440,"Q: How many occurences of the letter 'p' occur in the word 'popper' ? 
- A: ","3,three"
+ A: ","[' 3', ' three']"
 441,"Q: How many occurences of the letter 'r' occur in the word 'popper' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 442,"Q: Count the number of letters in the word 'voltaire' ? 
- A: ","8,eight"
+ A: ","[' 8', ' eight']"
 443,"Q: How many occurences of the letter 'e' occur in the word 'voltaire' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 444,"Q: How many occurences of the letter 'i' occur in the word 'voltaire' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 445,"Q: How many occurences of the letter 'a' occur in the word 'voltaire' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 446,"Q: How many occurences of the letter 'o' occur in the word 'voltaire' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 447,"Q: How many occurences of the letter 't' occur in the word 'voltaire' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 448,"Q: How many occurences of the letter 'v' occur in the word 'voltaire' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 449,"Q: How many occurences of the letter 'r' occur in the word 'voltaire' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 450,"Q: How many occurences of the letter 'l' occur in the word 'voltaire' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 451,"Q: Count the number of letters in the word 'euler' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 452,"Q: How many occurences of the letter 'u' occur in the word 'euler' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 453,"Q: How many occurences of the letter 'e' occur in the word 'euler' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 454,"Q: How many occurences of the letter 'l' occur in the word 'euler' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 455,"Q: How many occurences of the letter 'r' occur in the word 'euler' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 456,"Q: Count the number of letters in the word 'gauss' ? 
- A: ","5,five"
+ A: ","[' 5', ' five']"
 457,"Q: How many occurences of the letter 'u' occur in the word 'gauss' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 458,"Q: How many occurences of the letter 'a' occur in the word 'gauss' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 459,"Q: How many occurences of the letter 'g' occur in the word 'gauss' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 460,"Q: How many occurences of the letter 's' occur in the word 'gauss' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 461,"Q: Count the number of letters in the word 'ramanujan' ? 
- A: ","9,nine"
+ A: ","[' 9', ' nine']"
 462,"Q: How many occurences of the letter 'a' occur in the word 'ramanujan' ? 
- A: ","3,three"
+ A: ","[' 3', ' three']"
 463,"Q: How many occurences of the letter 'j' occur in the word 'ramanujan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 464,"Q: How many occurences of the letter 'u' occur in the word 'ramanujan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 465,"Q: How many occurences of the letter 'n' occur in the word 'ramanujan' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 466,"Q: How many occurences of the letter 'r' occur in the word 'ramanujan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 467,"Q: How many occurences of the letter 'm' occur in the word 'ramanujan' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 468,"Q: Count the number of letters in the word 'neumann' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 469,"Q: How many occurences of the letter 'e' occur in the word 'neumann' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 470,"Q: How many occurences of the letter 'a' occur in the word 'neumann' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 471,"Q: How many occurences of the letter 'u' occur in the word 'neumann' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 472,"Q: How many occurences of the letter 'n' occur in the word 'neumann' ? 
- A: ","3,three"
+ A: ","[' 3', ' three']"
 473,"Q: How many occurences of the letter 'm' occur in the word 'neumann' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 474,"Q: Count the number of letters in the word 'hilbert' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 475,"Q: How many occurences of the letter 'e' occur in the word 'hilbert' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 476,"Q: How many occurences of the letter 'i' occur in the word 'hilbert' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 477,"Q: How many occurences of the letter 'h' occur in the word 'hilbert' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 478,"Q: How many occurences of the letter 't' occur in the word 'hilbert' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 479,"Q: How many occurences of the letter 'b' occur in the word 'hilbert' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 480,"Q: How many occurences of the letter 'r' occur in the word 'hilbert' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 481,"Q: How many occurences of the letter 'l' occur in the word 'hilbert' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 482,"Q: Count the number of letters in the word 'fourier' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 483,"Q: How many occurences of the letter 'f' occur in the word 'fourier' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 484,"Q: How many occurences of the letter 'e' occur in the word 'fourier' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 485,"Q: How many occurences of the letter 'i' occur in the word 'fourier' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 486,"Q: How many occurences of the letter 'o' occur in the word 'fourier' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 487,"Q: How many occurences of the letter 'u' occur in the word 'fourier' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 488,"Q: How many occurences of the letter 'r' occur in the word 'fourier' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 489,"Q: Count the number of letters in the word 'fibonacci' ? 
- A: ","9,nine"
+ A: ","[' 9', ' nine']"
 490,"Q: How many occurences of the letter 'f' occur in the word 'fibonacci' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 491,"Q: How many occurences of the letter 'i' occur in the word 'fibonacci' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 492,"Q: How many occurences of the letter 'a' occur in the word 'fibonacci' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 493,"Q: How many occurences of the letter 'o' occur in the word 'fibonacci' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 494,"Q: How many occurences of the letter 'n' occur in the word 'fibonacci' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 495,"Q: How many occurences of the letter 'b' occur in the word 'fibonacci' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 496,"Q: How many occurences of the letter 'c' occur in the word 'fibonacci' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 497,"Q: Count the number of letters in the word 'laplace' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 498,"Q: How many occurences of the letter 'e' occur in the word 'laplace' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 499,"Q: How many occurences of the letter 'p' occur in the word 'laplace' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 500,"Q: How many occurences of the letter 'a' occur in the word 'laplace' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 501,"Q: How many occurences of the letter 'c' occur in the word 'laplace' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 502,"Q: How many occurences of the letter 'l' occur in the word 'laplace' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 503,"Q: Count the number of letters in the word 'bernoulli' ? 
- A: ","9,nine"
+ A: ","[' 9', ' nine']"
 504,"Q: How many occurences of the letter 'e' occur in the word 'bernoulli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 505,"Q: How many occurences of the letter 'i' occur in the word 'bernoulli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 506,"Q: How many occurences of the letter 'o' occur in the word 'bernoulli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 507,"Q: How many occurences of the letter 'u' occur in the word 'bernoulli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 508,"Q: How many occurences of the letter 'n' occur in the word 'bernoulli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 509,"Q: How many occurences of the letter 'b' occur in the word 'bernoulli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 510,"Q: How many occurences of the letter 'r' occur in the word 'bernoulli' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 511,"Q: How many occurences of the letter 'l' occur in the word 'bernoulli' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 512,"Q: Count the number of letters in the word 'poisson' ? 
- A: ","7,seven"
+ A: ","[' 7', ' seven']"
 513,"Q: How many occurences of the letter 'i' occur in the word 'poisson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 514,"Q: How many occurences of the letter 'p' occur in the word 'poisson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
 515,"Q: How many occurences of the letter 'o' occur in the word 'poisson' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 516,"Q: How many occurences of the letter 's' occur in the word 'poisson' ? 
- A: ","2,two"
+ A: ","[' 2', ' two']"
 517,"Q: How many occurences of the letter 'n' occur in the word 'poisson' ? 
- A: ","1,one"
+ A: ","[' 1', ' one']"
